@@ -1,0 +1,27 @@
+@font-face {
+	font-family: "Inter";
+	src: url(./assets/fonts/Inter-VariableFont_slnt\wght.ttf);
+}
+
+:root {
+	--green: hsl(75, 94%, 57%);
+	--grey: hsl(0, 0%, 20%);
+	--darkGrey: hsl(0, 0%, 12%);
+}
+
+body {
+	font-size: 14px;
+	background-color: hsl(0, 0%, 8%);
+	color: hsl(0, 0%, 100%);
+	font-family: "Inter";
+}
+
+.container {
+	background-color: var(--darkGrey);
+	height: 600px;
+	width: 300px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
