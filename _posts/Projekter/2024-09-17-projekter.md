@@ -15,5 +15,4 @@ Vores eksamensprojekt som er en platform bestående af 2 dele:
 Jeg har stået for at web app delen, som er bygget op med React.  
 [Se den her](https://vitaweb-9cdd3.web.app/)
 
-![VitaHus App](assets/VitaHusApp.png){: w="600" h="400"}
 
