@@ -16,3 +16,9 @@ Jeg har stået for at web app delen, som er bygget op med React.
 [Se den her](https://vitaweb-9cdd3.web.app/)
 
 
+## Space Tourism Challenge
+[Min løsning her](https://space-gaffen.netlify.app/home)
+
+[Løsningen på Github](https://github.com/Gaffen87/space-tourism)
+
+Blog om min løsning [her](../space-tourism)
