@@ -8,7 +8,7 @@ image: assets/taskmanager.png
 
 # Introduktion til useReducer opgave
 
-[Introduktion til useReducer](../useReducer)  
+[Introduktion til useReducer](../usereducer)  
 Til at lære og øve brugen af useReducer hook'et i React, har jeg valgt at benytte chatgpt til at stille mig en øvelse som passer.
 ChatGPT gav mig følgende øvelse:
 
