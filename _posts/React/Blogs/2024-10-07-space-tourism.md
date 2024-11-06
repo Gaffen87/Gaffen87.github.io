@@ -9,7 +9,7 @@ image: assets/space-tourism.png
 # Space Tourism Challenge
 
 
-[Link til min løsning af denne challenge](https://space-gaffen.netlify.app)
+[Link til min løsning af denne challenge](https://space-gaffen.netlify.app)  
 [Github](https://github.com/Gaffen87/space-tourism)
 
 Jeg fandt denne udfordringen gennem [frontendmentor.io](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3), hvor der udleveres design filer og assets til at opbygge hjemmeside. Målet er at få den til at se ud som designet og lave interaktionen.
@@ -18,7 +18,7 @@ Jeg brugte øvelsen til at lære mere om React generelt og få noget praktisk er
 
 Jeg vil her forklare lidt om hvordan jeg har opsat hjemmesiden med React og brugen af React Router
 
-Til læring om React Router har jeg prøvet så vidt muligt at holde mig til den officiele [dokumentation](https://reactrouter.com/en/main)
+[Kort præsentation af React Router her](../react-router)
 
 ## Opsætning af React Router
 
