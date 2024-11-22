@@ -22,9 +22,9 @@ bla bla bla
 
 ## Læringsplaner
 
-[Læringsplan for emnet React](../læringsplanreact)  
+[Læringsplan for emnet React](../læringsplanReact)  
   
-[Læringsplan for emnet IT-sikkerhed](../læringsplancybersecurity)  
+[Læringsplan for emnet IT-sikkerhed](../læringsplanCybersecurity)  
 
 
 ## SemesterProjekt

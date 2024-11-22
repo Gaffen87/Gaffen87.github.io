@@ -3,7 +3,7 @@ layout: post
 title: Læringsplan React
 date: 2024-09-17 08:14 +0000
 categories: [React, React/Læringsplaner]
-image: assets/reacticon.png
+image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png
 ---
 
 ## <center>Uge 34</center>
