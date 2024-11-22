@@ -2,7 +2,6 @@
 layout: post
 title: Projekter
 date: 2024-09-16 19:02 +0000
-pin: true
 description: Info om eksamens projektet, samt sideløbende projekter.
 image: assets/projekterIcon.jpg
 ---
