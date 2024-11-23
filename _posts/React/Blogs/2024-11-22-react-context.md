@@ -51,13 +51,14 @@ const value = useContext(MyContext);
 ## Eksempel på brug af Context
 1. Opret Context:  
 
+{% raw %}
 ``` jsx
 import React, { createContext, useState } from 'react';
 
 const ThemeContext = createContext();
 
 const ThemeProvider = ({ children }) => {
-    const [theme, setTheme] = useState('light');
+  const [theme, setTheme] = useState('light');
 
     return (
         <ThemeContext.Provider value={{ theme, setTheme }}>
@@ -68,6 +69,7 @@ const ThemeProvider = ({ children }) => {
 
 export { ThemeContext, ThemeProvider };
 ```  
+      {% endraw %}
 
 1. Brug Context i en komponent:
 

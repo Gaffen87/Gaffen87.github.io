@@ -95,6 +95,7 @@ const signOut = async () => {
 
 ## Rendering af child components vs. loading-state
 
+  {% raw %}
 ``` jsx
 return (
   <AuthContext.Provider value={{ user, signIn, signOut }}>
@@ -110,6 +111,7 @@ return (
   </AuthContext.Provider>
 );
 ```
+      {% endraw %}
 
 - AuthContext.Provider gør det muligt for underliggende komponenter at bruge user, signIn, og signOut.
 - Hvis loading er true, vises en spinner, der angiver, at applikationen stadig venter på brugerens autentifikationsstatus.
