@@ -22,7 +22,7 @@ bla bla bla
 
 ## Læringsplaner
 
-[Læringsplan for emnet React](../læringsplanReact)  
+[Læringsplan for emnet React](../laeringsplanReact)  
   
 [Læringsplan for emnet IT-sikkerhed](../læringsplanCybersecurity)  
 
