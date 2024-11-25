@@ -7,8 +7,4 @@ description: Her er et overblik over emnet IT-sikkerhed
 image: assets/CybersecurityIcon.webp
 ---
 
-[Se Læringsmålene for emnet](../læringsmålCybersecurity)
-
-[Se læringsplan for emnet](../læringsplanCybersecurity)
-
 [Blogs omkring IT-sikkerhed](../../categories/it-sikkerhed-blog)
