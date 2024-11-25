@@ -6,7 +6,7 @@ categories: [React, React/Læringsplaner]
 image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png
 ---
 
-## <center>Uge 34</center>
+## <center>Uge 34- 35</center>
 
 #### Mål
 - Genopfriske React syntaks
@@ -17,12 +17,12 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Bruge den officielle dokumentation fra react.dev
 - Starte så småt ud på projektet og få React/Javascript i fingrene
 
-#### Udbytte
+#### Opsamling
 - #
 
 ---
 
-## <center>Uge 35</center>
+## <center>Uge 36</center>
 
 #### Mål
 - Genopfriske useState hooket
@@ -33,12 +33,12 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Bruge dokumentation fra react.dev
 - Dokumentation fra de forskellge frameworks hjemmesider + youtube
 
-#### Udbytte
+#### Opsamling
 - #
 
 ---
 
-## <center>Uge 36</center>
+## <center>Uge 37</center>
 
 #### Mål
 - TailwindCSS
@@ -48,12 +48,12 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Læse dokumentationen til TailwindCSS + se lidt youtube guides
 - implementere den nuværende viden i projektet
 
-#### Udbytte
+#### Opsamling
 - #
 
 ---
 
-## <center>Uge 37</center>
+## <center>Uge 38</center>
 
 #### Mål
 - API kald i en React web app
@@ -63,12 +63,12 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Læse dokumentation og guides omkring best practices ved API kald i React
 - Lære omkring useEffect gennem reacts dokumentation + lidt youtube efter behov
 
-#### Udbytte
+#### Opsamling
 - #
 
 ---
 
-## <center>Uge 38</center>
+## <center>Uge 39-40</center>
 
 #### Mål
 - Auth i React gennem Auth0
@@ -78,12 +78,25 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Implementere auth gennem Auth0 i vores projekt
 - Læse dokumentation om routing fra React Router
 
-#### Udbytte
+#### Opsamling
 - #
 
 ---
 
-## <center>Uge 39</center>
+## <center>Uge 41</center>
+
+#### Mål
+- Auth gennem supabase
+
+#### Handlinger
+- Refaktorere projekt til auth gennem Supabase istedet for Auth0
+
+#### Opsamling
+- #
+
+---
+
+## <center>Uge 43-44</center>
 
 #### Mål
 - Routing fortsat
@@ -92,12 +105,12 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 #### Handlinger
 - Sideprojekt til at øve brug af routing og motion animationer
 
-#### Udbytte
+#### Opsamling
 - #
 
 ---
 
-## <center>Uge 41</center>
+## <center>Uge 45-46</center>
 
 #### Mål
 - Context og useReducer
@@ -106,22 +119,18 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Læse dokumentation fra react.dev omkring context og useReducer
 - Sideprojekt til at øve brugen af context og useReducer i React
 
-#### Udbytte
+#### Opsamling
 - #
 
 ---
 
-## <center>Uge 43</center>
+## <center>Uge 47</center>
 
 #### Mål
-- Auth gennem supabase
+- useReducer og context i semester projektet
 
 #### Handlinger
-- Refaktorere projekt til auth gennem Supabase istedet for Auth0
+- Refaktorere projekt til brug af useReducer og context, hvor det giver mening
 
-#### Udbytte
+#### Opsamling
 - #
-
----
-
-## <center>Uge 45</center>
