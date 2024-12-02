@@ -3,6 +3,7 @@ layout: post
 title: Læringsmål IT-sikkerhed
 date: 2024-09-17 10:50 +0000
 categories: [IT-sikkerhed, IT-sikkerhed/Læringsmål]
+image: https://s3-mittlag-prod.innocode.dev/production/uploads/image/image/559519/article_img_1584985532020.jpg
 ---
 
 ## Viden

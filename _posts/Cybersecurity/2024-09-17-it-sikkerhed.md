@@ -7,6 +7,10 @@ description: Her er et overblik over emnet IT-sikkerhed
 image: assets/CybersecurityIcon.webp
 ---
 
+## Læringsmål
+
+[Læringsmål for IT-sikkerhed](../laeringsmaal-cybersecurity)
+
 ## Opsummering af semester
 
 Min læring inden for IT-sikkerhed, med fokus på penetrationstests (pentests), har været en spændende og intensiv rejse, hvor jeg har opnået en dybere forståelse af sikkerhedsrisici og metoder til at identificere og afhjælpe dem. Min tilgang har været praksisorienteret og baseret på en kombination af teoretisk opbygning og hands-on erfaring med værktøjer og teknikker.
@@ -17,7 +21,7 @@ Herefter gik jeg i dybden med praktiske øvelser på platforme som TryHackMe og 
 
 **Jeg har fokuseret på værktøjer som:**
 
-- **OWASP ZAP:** Til at analysere og teste sikkerheden i webapplikationer.
+- **Burp Suite (OWASP Zap):** Til at analysere og teste sikkerheden i webapplikationer.
 - **Nmap:** Til netværksscanning og identifikation af åbne porte og tjenester.
 - **Metasploit:** Til automatisering af angreb og simulering af exploits.
 - **Wireshark:** Til overvågning og analyse af netværkstrafik.

@@ -17,8 +17,9 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Bruge den officielle dokumentation fra react.dev
 - Starte så småt ud på projektet og få React/Javascript i fingrene
 
-#### Opsamling
-- #
+#### Ressourcer
+- [React dokumentation](https://react.dev)
+- [Scrimba kursus - Learn react](https://scrimba.com/learn-react-c0e)
 
 ---
 
@@ -33,8 +34,12 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Bruge dokumentation fra react.dev
 - Dokumentation fra de forskellge frameworks hjemmesider + youtube
 
-#### Opsamling
-- #
+#### Ressourcer
+- [Scrimba kursus](https://scrimba.com/learn-react-c0e)
+- [NextJS](https://nextjs.org/)
+- [RemixJS](https://remix.run/)
+- [Vite](https://vite.dev/)
+- [React dokumentation](https://react.dev)
 
 ---
 
@@ -48,8 +53,9 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Læse dokumentationen til TailwindCSS + se lidt youtube guides
 - implementere den nuværende viden i projektet
 
-#### Opsamling
-- #
+#### Ressourcer
+- [TailwindCSS dokumentation](https://tailwindcss.com/)
+- [Tailwind video](https://www.youtube.com/watch?v=DenUCuq4G04)
 
 ---
 
@@ -63,8 +69,10 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Læse dokumentation og guides omkring best practices ved API kald i React
 - Lære omkring useEffect gennem reacts dokumentation + lidt youtube efter behov
 
-#### Opsamling
-- #
+#### Ressourcer
+- [React useEffect](https://react.dev/reference/react/useEffect)
+- [How to consume REST apis in React](https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/)
+- [useEffect video](https://www.youtube.com/watch?v=0ZJgIjIuY7U)
 
 ---
 
@@ -78,8 +86,9 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Implementere auth gennem Auth0 i vores projekt
 - Læse dokumentation om routing fra React Router
 
-#### Opsamling
-- #
+#### Ressourcer
+- [Auth0 dokumentation](https://auth0.com/docs/quickstart/spa/react)
+- [React Router dokumentation](https://reactrouter.com/home)
 
 ---
 
@@ -91,8 +100,8 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 #### Handlinger
 - Refaktorere projekt til auth gennem Supabase istedet for Auth0
 
-#### Opsamling
-- #
+#### Ressourcer
+- [Supabase dokumentation](https://supabase.com/docs/reference/javascript/introduction)
 
 ---
 
@@ -105,8 +114,11 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 #### Handlinger
 - Sideprojekt til at øve brug af routing og motion animationer
 
-#### Opsamling
-- #
+#### Ressourcer
+- [React Router](https://reactrouter.com/home)
+- [Framer Motion](https://motion.dev/)
+- [Space Tourism Challenge](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
+- [Løsning på Github](https://github.com/Gaffen87/space-tourism)
 
 ---
 
@@ -119,8 +131,9 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 - Læse dokumentation fra react.dev omkring context og useReducer
 - Sideprojekt til at øve brugen af context og useReducer i React
 
-#### Opsamling
-- #
+#### Ressourcer
+- [React dokumentation](https://react.dev)
+- [Løsning på Github](https://github.com/Gaffen87/taskReducerApp)
 
 ---
 
@@ -132,5 +145,5 @@ image: https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download
 #### Handlinger
 - Refaktorere projekt til brug af useReducer og context, hvor det giver mening
 
-#### Opsamling
-- #
+#### Ressourcer
+- [React dokumentation](https://react.dev)

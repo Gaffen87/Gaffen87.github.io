@@ -3,6 +3,7 @@ layout: post
 title: Introduktion til 4. Semester
 date: 2024-11-18 10:03 +0000
 image: assets/learning.png
+description: Overblik til undervisere
 pin: true
 ---
 
@@ -12,9 +13,14 @@ Denne side fungerer som en oversigt over hvad jeg har arbejdet med og min proces
 ## Emner
 Jeg har arbejdet med emnerne:
 - [Webudvikling med React](../React)
+  - [Læringsmål](../laeringsmaal-react)
+  - [Læringsplan](../laeringsplan-react)
 - [IT-sikkerhed med fokus på pentesting](../it-sikkerhed)
+  - [Læringsmål](../laeringsmaal-cybersecurity)
+  - [Læringsplan](../laeringsplan-cybersecurity)
 
 > Følg linksene for at dykke videre ned i det pågældende emne
+{: .prompt-tip }
 
 ## Process
 
@@ -54,12 +60,6 @@ Denne tilgang har hjulpet mig med at skabe en dyb forståelse af både React’s
 - **Aktiv eksperimenteren**  
   Den sidste del af læringsprocessen indebærer at anvende mine færdigheder på semesterprojektet. Her tester jeg applikationen for sårbarheder ved hjælp af de teknikker, jeg har lært. Jeg evaluerer, hvordan værktøjerne og metoderne fungerer i et mere realistisk miljø, og får erfaring med at tilpasse mine pentesting-strategier til projektets unikke krav. Dette trin giver mig ikke kun praktisk erfaring, men hjælper mig også med at forstå, hvordan pentesting kan integreres i softwareudviklingsprocessen.
 
-## Læringsplaner
-
-[Læringsplan for emnet React](../laeringsplan-react)  
-  
-[Læringsplan for emnet IT-sikkerhed](../laeringsplan-cybersecurity)  
-
-
 ## SemesterProjekt
 
+[VitaWeb](../projekter)
